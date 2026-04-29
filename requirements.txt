@@ -1,8 +1,12 @@
-# lxml o'rniga alternativ
-beautifulsoup4>=4.12.3
-# Versiyalarni biroz yumshatamiz
 aiogram>=2.25.1
 Telethon>=1.37.0
+python-dotenv>=1.0.1
+beautifulsoup4>=4.12.3
 yt-dlp>=2025.1.15
-# spotdl uchun kerakli dependencies
 spotdl>=4.2.10
+aiohttp>=3.11.0
+aiosqlite>=0.20.0
+requests>=2.32.0
+shazamio>=0.8.1
+spotipy>=2.25.0
+wget>=3.2
